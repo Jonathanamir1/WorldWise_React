@@ -1,3 +1,16 @@
 {
-  "cities": []
+  "cities": [
+    {
+      "id": "8ffd",
+      "cityName": "Leese",
+      "country": "Germany",
+      "date": "2024-07-04T15:42:16.265Z",
+      "notes": "",
+      "position": {
+        "lat": "52.522905940278065",
+        "lng": "9.140625000000002"
+      },
+      "emoji": "🇩🇪"
+    }
+  ]
 }
